@@ -1,0 +1,54 @@
+.home-container{
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.gtLeAYTUiOR9QGVyuINhVwAAAA%3Fpid%3DApi&f=1&ipt=019009bb744ffd00a7bb024a1c5b6ee091fd06a80ab21a0dd4fa1f6033f96669&ipo=images");
+    background-size: cover;
+    height: 100vh;
+}
+.home-start-button{
+    height: 38px;
+    width: 140px;
+}
+.get-started-card{
+    background-color: white;
+    /* width: 400px;
+    height: 200px; */
+    text-align: center;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+/* Favourite Places Styling */
+
+.favourite-places-container{
+    background-color: paleturquoise;
+    background-size: cover;
+   
+    padding: 20px;
+}
+.favouritePlaces-main-heading{
+    color: #2287b2;
+    text-align: center;
+}
+.favouritePlace-card{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 10px;
+
+}
+
+/* Favourite Places Detailed Page Styling */
+.favourite-places-detailed-container{
+    background-color: rgb(163, 216, 243);
+    background-size: cover;
+    padding: 20px;
+}
+.favourite-places-detailed-container p{
+    font-size: 18px;
+    text-align: justify;
+}
+img{
+    margin: 10px;
+}
